@@ -1,0 +1,44 @@
+.btn btn-outline-success{
+    margin-right: 50px;
+    border-radius: 30px;
+}
+.carousel-inner{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#c{
+    color: brown;
+}
+#l{
+    font-weight: bolder;
+}
+.buy-now-button{
+    padding: 15px 15px;
+    background-color: seagreen;
+   color: aliceblue;
+    border-radius: 30px;
+}
+#s{
+    color: seagreen;
+}
+
+.animation{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+.d-flex img{
+    padding: 10%;
+    width: 200px;
+}
+#f{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+}
+
+.page-footer{
+    background-color: rgba(0, 0, 0, 0.705);
+    color: azure;
+}
